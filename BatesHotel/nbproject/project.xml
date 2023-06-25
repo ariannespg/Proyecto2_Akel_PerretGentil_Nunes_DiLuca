@@ -14,5 +14,48 @@
         <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
             <definitions>.\lib\nblibraries.properties</definitions>
         </libraries>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Akel</word>
+            <word>apellido</word>
+            <word>Arianne</word>
+            <word>cambia</word>
+            <word>clase</word>
+            <word>cliente</word>
+            <word>cédula</word>
+            <word>enfocado</word>
+            <word>establece</word>
+            <word>fecha</word>
+            <word>Gentil</word>
+            <word>género</word>
+            <word>habitacion</word>
+            <word>hospeda</word>
+            <word>huésped</word>
+            <word>identificar</word>
+            <word>informacion</word>
+            <word>llegada</word>
+            <word>Luca</word>
+            <word>Método</word>
+            <word>métodos</word>
+            <word>nombre</word>
+            <word>numero</word>
+            <word>Nunes</word>
+            <word>número</word>
+            <word>Orveo</word>
+            <word>pasa</word>
+            <word>Perret</word>
+            <word>que</word>
+            <word>relación</word>
+            <word>reserva</word>
+            <word>retorna</word>
+            <word>salida</word>
+            <word>se</word>
+            <word>segundo</word>
+            <word>telefonico</word>
+            <word>telefono</word>
+            <word>teléfono</word>
+            <word>tipo</word>
+            <word>utilizada</word>
+            <word>utilizados</word>
+        </spellchecker-wordlist>
     </configuration>
 </project>
